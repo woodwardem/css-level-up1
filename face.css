@@ -2,19 +2,23 @@
     position: relative;
     width: 600px;
     height: 600px;
-    background: orangered;
+    background: white;
 }
 
 .ears {
     position: absolute;
+    background: yellowgreen;
 }
 .nose {
     position: absolute;
+    background-color: yellowgreen;
 }
 
 .mouth {
     position: absolute;
+    background: yellowgreen;
 }
 .eyes {
     position: absolute;
+    background: yellowgreen;
 }
