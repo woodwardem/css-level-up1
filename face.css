@@ -1,0 +1,20 @@
+#container {
+    position: relative;
+    width: 600px;
+    height: 600px;
+    background: orangered;
+}
+
+.ears {
+    position: absolute;
+}
+.nose {
+    position: absolute;
+}
+
+.mouth {
+    position: absolute;
+}
+.eyes {
+    position: absolute;
+}
