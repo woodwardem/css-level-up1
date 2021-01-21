@@ -8,17 +8,25 @@
 .ears {
     position: absolute;
     background: yellowgreen;
+    top: 0px;
+    left: 0px;
 }
 .nose {
     position: absolute;
     background-color: yellowgreen;
+    bottom: 0px;
+    left: 0px;
 }
 
 .mouth {
     position: absolute;
     background: yellowgreen;
+    top: 0px;
+    right: 0px;
 }
 .eyes {
     position: absolute;
     background: yellowgreen;
+    bottom: 0px;
+    right: 0px;
 }
