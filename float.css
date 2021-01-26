@@ -1,0 +1,33 @@
+main {
+    border: 1px dotted blue;
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+
+#1 {
+background-color: black;
+}
+
+#2 {
+    background-color: teal;
+}
+#3 {
+    background-color: tomato;
+}
+
+article {
+    border: 1px dotted grey;
+    height: 300px;
+    width: 900px;
+    clear: left;
+}
+#4 {
+    background-color: hotpink;
+}
+#5 {
+    background-color: indigo;
+}
+#6 {
+    background: lightblue;
+}
