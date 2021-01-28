@@ -6,14 +6,14 @@ main {
 }
 
 #1 {
-background-color: black;
+background: black;
 }
 
 #2 {
-    background-color: teal;
+    background: teal;
 }
 #3 {
-    background-color: tomato;
+    background: tomato;
 }
 
 article {
@@ -23,10 +23,10 @@ article {
     clear: left;
 }
 #4 {
-    background-color: hotpink;
+    background: hotpink;
 }
 #5 {
-    background-color: indigo;
+    background: indigo;
 }
 #6 {
     background: lightblue;
